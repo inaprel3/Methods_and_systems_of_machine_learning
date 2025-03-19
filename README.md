@@ -27,7 +27,7 @@
 ![](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/2.4_Visualization_of_results_for_age_and_insurance_costs.png)
 
 Збереження даних в окремий файл:
-![](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/2.5_Save_data_to_a_separate_file.png
+![](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/2.5_Save_data_to_a_separate_file.png)
 
 # ПР3 Методи регресії. Частина 2 (нелінійна регресія)
 
