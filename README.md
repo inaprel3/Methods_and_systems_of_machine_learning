@@ -42,3 +42,8 @@
 
 Порівняння MSE моделей на тестовій вибірці
 ![](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/3%20Comparison%20of%20MSE%20models%20on%20the%20test%20sample.png)
+
+# ПР4 Методи класифікації. Частина 1
+
+ROC-крива
+![](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/4%20ROC%20curve.png)
