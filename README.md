@@ -24,3 +24,10 @@
 
 # ПР5 Методи класифікації. Частина 2
 ![ROC-крива для K-NN](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/5%20ROC%20curve%20for%20K-NN.png)
+
+# ПР6 Методи кластеризації 
+![Дендрограма ієрархічної кластеризації](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/6%20Hierarchical%20clustering%20dendrogram.png)
+![Визначення оптимальної кількості кластерів](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/6%20Determining%20the%20optimal%20number%20of%20clusters.png)
+![Базовий графік кластерів методом k-середніх](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/6%20Basic%20k-means%20cluster%20graph.png)
+![Візуалізація силуету для k-means](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/6%20Silhouette%20visualization%20for%20k-means.png)
+![Візуалізація результатів кластеризації методом DBSCAN](https://github.com/inaprel3/Methods_and_systems_of_machine_learning/blob/main/picture/6%20Visualization%20of%20clustering%20results%20using%20the%20DBSCAN%20method.png)
